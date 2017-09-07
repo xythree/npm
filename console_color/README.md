@@ -2,6 +2,13 @@
 _ _ _
 > A simple Node.js module for colorizing console output.
 
+### Install
+_ _ _
+
+```js
+	npm install console_color
+```
+
 ### Usage
 _ _ _
 ```js
