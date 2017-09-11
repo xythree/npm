@@ -11,8 +11,12 @@ _ _ _
 ```js
 
     //cmd
-	
-	yd hello world
+    
+    yd hello world
+    => 你好世界
+        
+    yd 你好世界    
+    => hello world
     
 ```
 
