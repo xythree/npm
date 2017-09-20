@@ -1,0 +1,31 @@
+{
+  "name": "minimages",
+  "version": "0.0.3",
+  "description": "imagecompression",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "minimages": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xythree/npm/tree/master/minimages"
+  },
+  "keywords": [
+    "imagecompression",
+    "min",
+    "images"
+  ],
+  "author": "xythree",
+  "license": "ISC",
+  "dependencies": {
+    "console_color": "^1.0.18",
+    "imagemin": "^5.3.1",
+    "imagemin-gifsicle": "^5.2.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-pngquant": "^5.0.1",
+    "loading_status": "^1.0.1"
+  }
+}
